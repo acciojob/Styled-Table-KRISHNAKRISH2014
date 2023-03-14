@@ -15,4 +15,6 @@ th, td{
 	padding: 5px;
 	text-allign: left;
 }
-th: {background-color: skyblue;}
+th:{
+	background-color: darkblue;
+}
