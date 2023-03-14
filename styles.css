@@ -1,1 +1,17 @@
-/* your code */
+table,th,td{
+	border: 1px solid;
+}
+table {
+  width: 100%;
+}
+
+th {
+  height: 70px;
+}
+td{
+	text-allign: center;
+}
+th, td{
+	padding: 15px;
+	text-allign: center;
+}
