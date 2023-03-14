@@ -9,9 +9,9 @@ th {
   height: 50px;
 }
 td{
-	text-allign: center;
+	text-allign: left;
 }
 th, td{
 	padding: 5px;
-	text-allign: center;
+	text-allign: left;
 }
